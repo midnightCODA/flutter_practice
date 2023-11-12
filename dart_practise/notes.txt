@@ -1,0 +1,49 @@
+Strings i Dart;
+you can define a string different ways including 
+
+using '' or using ""
+
+But for RAW Strings, you can define it as...
+var = r''
+
+BUT WHAT DOES IT MEAN WHEN WE SAY ITS A RAW STRING. This means it is
+regardless of the text or symbol in te text it will be treated as text
+i.e \n thus doesnt skip  a new line its just a \n 
+
+Youu can store multi lines strings LIKE SO"  var s2 = '''
+  kwanini usiwaombe,...
+  didd you know you can do this
+  hugh,..
+  ''';"
+
+
+
+EVERY THING IN DART IS AN OBJECT...
+
+
+
+WHAT IS TEH DIFFERENCE BETWEEN ?. AND ?? in dart
+
+?. is an non-error operand
+?? is used to assing a default value when there is a null value...
+see classes example for explanation....
+??= is used to check if teh value is empt if it is tehn we assign a new vallue
+
+ANONYMOUS FUNCTION IS A FUNCTION WITH OUT ANY NAME...
+
+IN DART we define variables with data types var and dynamic.....
+
+
+THERE ARE TWO TYPES OF PARAMETERS....
+
+The are 2 types of parameters, position parameters and named parameters
+check in functions to see example 
+
+
+
+CONSTANTS IN DART..
+
+we can use CONST and FINAL to define values
+
+when you use final you can only assign once and not more
+while when you use const you have to assign the value which is not going to change ever..
